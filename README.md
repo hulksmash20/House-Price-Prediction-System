@@ -1,1 +1,1 @@
-# House-Rate-Prediction
+This machine learning project predicts the price of houses with a mean square error of 3.58. This model is made with the help of python libraries like sklearn, matplotlib etc
